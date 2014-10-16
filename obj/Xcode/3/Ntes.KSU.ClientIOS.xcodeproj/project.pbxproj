@@ -1,0 +1,250 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1277578D0000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1608642B0000000000000000 /* UIKit.framework */; };
+		124474710000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15D5810F0000000000000000 /* MapKit.framework */; };
+		2777DD090000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B08E9A70000000000000000 /* Foundation.framework */; };
+		1AE2BF520000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E73CBF00000000000000000 /* CoreGraphics.framework */; };
+		93B2DB500000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CCC3A5300000000000000000 /* Default-568h@2x.png */; };
+		1E6E964D0000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 21FFA2EB0000000000000000 /* Info.plist */; };
+		C99573700000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 102A63D50000000000000000 /* Entitlements.plist */; };
+		3AC418210000000000000000 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E5524BF0000000000000000 /* MainStoryboard.storyboard */; };
+		171999F50000000000000000 /* AlertCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AAAA6930000000000000000 /* AlertCell.xib */; };
+		351E308A0000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 38AF3D280000000000000000 /* AppDelegate.h */; };
+		1322C71F0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B3D3BD0000000000000000 /* AppDelegate.m */; };
+		2BE73C550000000000000000 /* MasterViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 2F7848F30000000000000000 /* MasterViewController.h */; };
+		11AA4ED00000000000000000 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ABB18B00000000000000000 /* MasterViewController.m */; };
+		2101335F0000000000000000 /* DetailViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 24923FFD0000000000000000 /* DetailViewController.h */; };
+		19AC37070000000000000000 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3D43A50000000000000000 /* DetailViewController.m */; };
+		1EEC58660000000000000000 /* AlertCell.h in Sources */ = {isa = PBXBuildFile; fileRef = 227D65040000000000000000 /* AlertCell.h */; };
+		17975C0E0000000000000000 /* AlertCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B2868AC0000000000000000 /* AlertCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		37B8EE990000000000000000 /* Ntes.KSU.ClientIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Ntes.KSU.ClientIOS.app"; path = "Ntes.KSU.ClientIOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1608642B0000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		15D5810F0000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		2B08E9A70000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		1E73CBF00000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		CCC3A5300000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		21FFA2EB0000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		102A63D50000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		3E5524BF0000000000000000 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "MainStoryboard.storyboard"; path = "MainStoryboard.storyboard"; sourceTree = "<group>"; };
+		1AAAA6930000000000000000 /* AlertCell.xib */ = {isa = PBXFileReference; name = "AlertCell.xib"; path = "AlertCell.xib"; sourceTree = "<group>"; };
+		38AF3D280000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		16B3D3BD0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2F7848F30000000000000000 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MasterViewController.h"; path = "MasterViewController.h"; sourceTree = "<group>"; };
+		4ABB18B00000000000000000 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MasterViewController.m"; path = "MasterViewController.m"; sourceTree = "<group>"; };
+		24923FFD0000000000000000 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "DetailViewController.h"; path = "DetailViewController.h"; sourceTree = "<group>"; };
+		1D3D43A50000000000000000 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "DetailViewController.m"; path = "DetailViewController.m"; sourceTree = "<group>"; };
+		227D65040000000000000000 /* AlertCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AlertCell.h"; path = "AlertCell.h"; sourceTree = "<group>"; };
+		1B2868AC0000000000000000 /* AlertCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AlertCell.m"; path = "AlertCell.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9C110CB00000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1277578D0000000000000000 /* UIKit.framework in Frameworks */,
+				124474710000000000000000 /* MapKit.framework in Frameworks */,
+				2777DD090000000000000000 /* Foundation.framework in Frameworks */,
+				1AE2BF520000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		29DA82590000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				147436A50000000000000000 /* Ntes.KSU.ClientIOS */,
+				348DA8330000000000000000 /* Frameworks */,
+				1F275C7F0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1F275C7F0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				37B8EE990000000000000000 /* Ntes.KSU.ClientIOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		348DA8330000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1608642B0000000000000000 /* UIKit.framework */,
+				15D5810F0000000000000000 /* MapKit.framework */,
+				2B08E9A70000000000000000 /* Foundation.framework */,
+				1E73CBF00000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		147436A50000000000000000 /* Ntes.KSU.ClientIOS */ = {
+			isa = PBXGroup;
+			children = (
+				227D65040000000000000000 /* AlertCell.h */,
+				1AAAA6930000000000000000 /* AlertCell.xib */,
+				38AF3D280000000000000000 /* AppDelegate.h */,
+				CCC3A5300000000000000000 /* Default-568h@2x.png */,
+				24923FFD0000000000000000 /* DetailViewController.h */,
+				102A63D50000000000000000 /* Entitlements.plist */,
+				21FFA2EB0000000000000000 /* Info.plist */,
+				3E5524BF0000000000000000 /* MainStoryboard.storyboard */,
+				2F7848F30000000000000000 /* MasterViewController.h */,
+				1504BEFC0000000000000000 /* Supporting Files */,
+			);
+			name = "Ntes.KSU.ClientIOS";
+			sourceTree = "<group>";
+		};
+		1504BEFC0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1B2868AC0000000000000000 /* AlertCell.m */,
+				16B3D3BD0000000000000000 /* AppDelegate.m */,
+				1D3D43A50000000000000000 /* DetailViewController.m */,
+				4ABB18B00000000000000000 /* MasterViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		375328610000000000000000 /* Ntes.KSU.ClientIOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2D05C8BF0000000000000000 /* Build configuration list for PBXNativeTarget "Ntes.KSU.ClientIOS" */;
+			buildPhases = (
+				37EBD1B50000000000000000 /* Sources */,
+				9C110CB00000000000000000 /* Frameworks */,
+				20D671400000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ntes.KSU.ClientIOS";
+			productName = "Ntes.KSU.ClientIOS";
+			productReference = 37B8EE990000000000000000 /* Ntes.KSU.ClientIOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2CA002870000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 2252A2E50000000000000000 /* Build configuration list for PBXProject "Ntes.KSU.ClientIOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 29DA82590000000000000000;
+			productRefGroup = 1F275C7F0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				375328610000000000000000 /* Ntes.KSU.ClientIOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		20D671400000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93B2DB500000000000000000 /* Default-568h@2x.png in Resources */,
+				1E6E964D0000000000000000 /* Info.plist in Resources */,
+				C99573700000000000000000 /* Entitlements.plist in Resources */,
+				3AC418210000000000000000 /* MainStoryboard.storyboard in Resources */,
+				171999F50000000000000000 /* AlertCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		37EBD1B50000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				351E308A0000000000000000 /* AppDelegate.h in Sources */,
+				1322C71F0000000000000000 /* AppDelegate.m in Sources */,
+				2BE73C550000000000000000 /* MasterViewController.h in Sources */,
+				11AA4ED00000000000000000 /* MasterViewController.m in Sources */,
+				2101335F0000000000000000 /* DetailViewController.h in Sources */,
+				19AC37070000000000000000 /* DetailViewController.m in Sources */,
+				1EEC58660000000000000000 /* AlertCell.h in Sources */,
+				17975C0E0000000000000000 /* AlertCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		77952B600000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		179F7D0B0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "Ntes.KSU.ClientIOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2252A2E50000000000000000 /* Build configuration list for PBXProject "Ntes.KSU.ClientIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77952B600000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		2D05C8BF0000000000000000 /* Build configuration list for PBXNativeTarget "Ntes.KSU.ClientIOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				179F7D0B0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2CA002870000000000000000 /* Project object */;
+}

@@ -1,0 +1,270 @@
+TNtes.KSU.ClientIOS
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000539052E300000000000003B4
+t1401967331
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053905301000000000000019E
+t1401967361
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005390530B0000000000446820
+t1401967371
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053905312000000000088D8C0
+t1401967378
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005390531500000000002E6B60
+t1401967381
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000539053220000000001F1DE10
+t1401967394
+s32628240
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m
+c00000000543CF38900000000000001F7
+t1413280649
+s503
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m
+c00000000543BC1DB0000000000000144
+t1413202395
+s324
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o
+t1413348522
+s45708
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o
+t1413348522
+s3040
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o
+t1413348522
+s40984
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o
+t1413348522
+s39332
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/Ntes.KSU.ClientIOS.LinkFileList
+c00000000543DFCA800000000000003F3
+t1413348520
+s1011
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS
+t2
+s0
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m
+c00000000543CF8880000000000000195
+t1413281928
+s405
+
+N/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m
+c00000000543DFBE30000000000000156
+t1413348323
+s342
+
+CBuild AST from /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m
+r0
+
+CBuild AST from /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m
+r0
+
+CBuild AST from /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m
+r0
+
+CBuild AST from /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc5aa392834eeb941^6b0f4f2834eeb941^-676"warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.h' of type sourcecode.c.h for architecture i3864(21%IDEActivityLogMessage2@164"Warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.h' of type sourcecode.c.h for architecture i386-435041320#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@173"Warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.h' of type sourcecode.c.h for architecture i386-435041320#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@173"Warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.h' of type sourcecode.c.h for architecture i386-435041320#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@162"Warning: no rule to process file '/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.h' of type sourcecode.c.h for architecture i386-435041320#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"D976F1ED-AC8F-498C-B545-724874ACD0BA-
+
+CCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435041320.339917
+e435041322.982026
+r1
+xCompileC
+xDerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o
+x/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m263"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o AlertCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbc25b2834eeb941^e068fb2a34eeb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m0000000000000000^4433"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o AlertCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-generated-files.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-own-target-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-all-target-headers.hmap -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-project-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources/i386 -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources -F/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.d --serialize-diagnostics /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.dia -c /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.m -o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o36"9C39D745-757E-4391-883A-78B8047B37DF-
+bFDBF305C-5535-4960-BD9D-64A25B08539E
+
+CCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435041320.337343
+e435041322.896981
+r1
+xCompileC
+xDerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o
+x/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m268"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbdc55b2834eeb941^61aae52a34eeb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m0000000000000000^4449"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-generated-files.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-own-target-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-all-target-headers.hmap -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-project-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources/i386 -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources -F/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.d --serialize-diagnostics /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.dia -c /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AppDelegate.m -o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o36"0678FB9A-66DC-4D62-BC15-34D40D06979C-
+bFDBF305C-5535-4960-BD9D-64A25B08539E
+
+CCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435041320.338926
+e435041322.980865
+r1
+xCompileC
+xDerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o
+x/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m286"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler82c75b2834eeb941^882bfb2a34eeb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m0000000000000000^4503"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-generated-files.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-own-target-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-all-target-headers.hmap -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-project-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources/i386 -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources -F/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.d --serialize-diagnostics /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.dia -c /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DetailViewController.m -o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o36"BF0D849F-2A73-4309-9812-0F90BE31EDB5-
+bFDBF305C-5535-4960-BD9D-64A25B08539E
+
+CCompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435041320.337852
+e435041322.925479
+r1
+xCompileC
+xDerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o
+x/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m286"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7da5b2834eeb941^f5f1ec2a34eeb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m0000000000000000^4503"CompileC DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-generated-files.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-own-target-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-all-target-headers.hmap -iquote /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Ntes.KSU.ClientIOS-project-headers.hmap -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources/i386 -I/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/DerivedSources -F/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -MMD -MT dependencies -MF /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.d --serialize-diagnostics /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.dia -c /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MasterViewController.m -o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o36"BBD7309F-66D1-4A36-A6ED-FB64CDA9C349-
+bFDBF305C-5535-4960-BD9D-64A25B08539E
+
+CCompileStoryboard /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/MainStoryboard.storyboard
+r0
+
+CCompileXIB /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/AlertCell.xib
+r0
+
+CCopyPlistFile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Entitlements.plist Entitlements.plist
+r0
+
+CCopyPlistFile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Info.plist Info.plist
+r0
+
+CCpResource Default-568h@2x.png DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Default-568h@2x.png
+r0
+
+CGenerateDSYMFile /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app.dSYM /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS
+r0
+
+CLd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS normal i386
+s435041322.993095
+e435041323.614524
+r0
+xLd
+x/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS
+xnormal
+xi386
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/Ntes.KSU.ClientIOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AppDelegate-B73FD87E971879F1.o
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/MasterViewController-48B2E8A0950A8DEC.o
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/DetailViewController-40D09EA477C995E1.o
+d/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/AlertCell-2ED33AAF524C4E7.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture i386:
+o  "_main", referenced from:
+o      start in crt1.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection189"Link /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS128"Ld DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS normal i386ebe2fe2a34eeb941^d7519d2b34eeb941^-217"Undefined symbols for architecture i386:  "_main", referenced from:      start in crt1.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@25""_main", referenced from:-435041323#41#28#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@15"Start in crt1.o-435041323#69#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-435041323#91#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-435041323#137#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1908"Ld DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS normal i386    cd /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -F/Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator -filelist /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/Ntes.KSU.ClientIOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework UIKit -framework MapKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Intermediates/Ntes.KSU.ClientIOS.build/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.build/Objects-normal/i386/Ntes.KSU.ClientIOS_dependency_info.dat -o /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app/Ntes.KSU.ClientIOS36"1C1A0E67-1A98-4EF7-BD96-587E5ADEEFA6-
+bFDBF305C-5535-4960-BD9D-64A25B08539E
+
+CTouch /Users/ntes/Projects/Ntes.KSU.ClientIOS/Ntes.KSU.ClientIOS/obj/Xcode/3/DerivedData/Ntes.KSU.ClientIOS/Build/Products/MonoTouch-iphonesimulator/Ntes.KSU.ClientIOS.app
+r0
+
